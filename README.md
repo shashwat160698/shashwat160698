@@ -1,5 +1,5 @@
 - 👋 Hi geeky fellows, I’m @shashwat160698
-- 👀 I’m interested in coding and developing value added software.
+- 👀 I’m interested in coding and developing value added software for multiple industries.
 - 🌱 I’m currently learning Azure.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me 📧: shashwat160698@gmail.com
